@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: fedex
+Bundle-SymbolicName: fedex
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.consol.skillapp.app,
+ com.consol.skillapp.model
